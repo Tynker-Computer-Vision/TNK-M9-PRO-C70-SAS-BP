@@ -1,13 +1,13 @@
 Click the Cursor
 =======================
 
-
 In this activity, you will learn to click the cursor using the virtual mouse.
 
 
 
-
 <img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10502657/Slide_8_GIF_B.gif" width = "480" height = "320">
+
+
 
 
 
@@ -18,7 +18,7 @@ Follow the given steps to complete this activity:
 1. Check finger position
 
 
-* Check if the index finger and middle finger are up using if condition.
+* Check if the index finger and middle finger are up using the condition.
      
         ` if fingers[1] == 1 and fingers[2] == 1:`
                      
@@ -82,5 +82,3 @@ Follow the given steps to complete this activity:
   `pyautogui.click()`
  
 * Save and run the code to check the output.
-
-
